@@ -47,7 +47,7 @@ O Alura Plus é uma plataforma de venda de livros online da Alura.
 <br>
 
 ## Acessando ao projeto
-Você pode acessar a página do projeto [aqui](https://aluraplus-nine.vercel.app/)!
+Você pode acessar a página do projeto [aqui](https://alura-books-tawny.vercel.app//)!
 
 <br>
 
