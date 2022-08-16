@@ -1,4 +1,5 @@
-![Logo da frutaefruto](https://user-images.githubusercontent.com/86852698/182039029-4bc30141-6a7c-4ea3-ac52-c928a618cd5b.jpg)
+![alurabooks](https://user-images.githubusercontent.com/86852698/184980249-285178e3-fdf0-4b5e-9369-5f22ef935a51.jpg)
+
 
 
 <p align="center">
