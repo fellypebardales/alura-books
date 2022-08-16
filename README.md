@@ -22,7 +22,7 @@
 
 ## Descrição do projeto 
 <p align="justify">
-  O projeto da landing page foi desenvolvido durante o curso "<b>HTML e CSS: Responsividade com mobile-first</b>" da plataforma de curso e aprendizado Alura. Projeto foi desenvolvido usando media queries, ou seja, praticando responsividade em página.
+  O projeto da landing page foi desenvolvido durante o curso "HTML e CSS: Responsividade com mobile-first" da plataforma de curso e aprendizado Alura. Projeto foi desenvolvido usando media queries, ou seja, praticando responsividade em página.
   <br>
 O Alura Plus é uma plataforma de venda de livros online da Alura.
 </p>
