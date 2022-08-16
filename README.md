@@ -57,4 +57,4 @@ Você pode acessar a página do projeto [aqui](https://alura-books-tawny.vercel.
 <br>
 
 ## Licença
-Projeto está licenciado sob a [Licença MIT](https://github.com/gui-lirasilva/Edige-POO/tree/master/src).
+Projeto está licenciado sob a [Licença MIT](https://github.com/fellypebardales/alura-books/blob/51e9e5a47093aa6bf1e1884a4adb7e639e2ce11c/licenca.txt).
